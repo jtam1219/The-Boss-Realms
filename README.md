@@ -1,18 +1,3 @@
-## Getting Started
+# The-Boss-Realms
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+A project plugin made with the idea to have a boss vs player PvP style arena where 1 player is a boss and the other players must defeat the boss. The players and the boss are split into 2 teams, Boss Team and Player Team. One team wins once the other team has been killed entirely. This project utilizes the usage of minecraft command blocks along with some assistance from using the Spigot API 1.20.1 in order to create plugins that otherwise command blocks are unable to accomplish. Players will be able to choose their teams and will have kits before engaging into a full out bloody war. 
