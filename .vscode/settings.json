@@ -1,0 +1,16 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "spigot-1.20.1.jar",
+            "c:\\Users\\betab\\Desktop\\Code Stuff\\spigot-1.20.1.jar",
+            "c:\\Users\\betab\\Desktop\\BuildTool\\Spigot/**/*.jar",
+            "c:\\Users\\betab\\Desktop\\Code Stuff\\BuildTool\\Spigot/**/*.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\betab\\Desktop\\Code Stuff\\spigot-1.16.4.jar"
+        ]
+    }
+}
