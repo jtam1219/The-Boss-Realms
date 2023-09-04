@@ -26,7 +26,7 @@ public class testCommand implements CommandExecutor{
         Location loc = p.getLocation();
         World w = p.getWorld();
         p.getServer().broadcastMessage("This is a test.");
-        w.spawnEntity(loc, EntityType.GIANT);
+        w.spawnEntity(loc, EntityType.GIANT); 
         return false;
     }
 }
