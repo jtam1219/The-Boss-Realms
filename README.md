@@ -1,1 +1,3 @@
 # The-Boss-Realms
+
+A project made by Jack Liu, Ari Khaytser, and Jason Tam. The idea is to have a boss vs player PvP style arena where 1 player is a boss and the other players must defeat the boss. The players and the boss are split into 2 teams, Boss Team and Player Team. One team wins once the other team has been killed entirely. This project utilizes the usage of minecraft command blocks along with some assistance from using the Spigot API 1.20.1 in order to create plugins that otherwise command blocks are unable to accomplish. Players will be able to choose their teams and will have kits before engaging into a full out bloody war. 
