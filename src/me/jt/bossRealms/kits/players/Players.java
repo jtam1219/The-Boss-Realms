@@ -1,9 +1,9 @@
 package me.jt.bossRealms.kits.players;
 
-public class Player {
+public class Players {
     private int health;
 
-    public Player(int health){
+    public Players(int health){
         setHealth(health);
     }
 
